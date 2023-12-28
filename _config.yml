@@ -1,0 +1,7 @@
+source: .
+incremental: false
+highlighter: rouge
+kramdown:
+    math_engine: mathjax
+    syntax_highlighter: rouge
+remote_theme: "jeffreytse/jekyll-theme-yat"
