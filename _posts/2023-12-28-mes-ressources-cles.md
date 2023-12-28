@@ -4,8 +4,8 @@
 
 layout: post
 title:  "Mes ressources clés"
-banner: "/assets/images/banners/2023-12-28-mes-ressources-cles.jpeg"
-tags: ["veille"]
+banner: "/assets/images/banners/2023-12-28-mes-ressources-cles.jpg"
+tags: ["veille", "clean code", "architecture hexagonale", "architecture logicielle", "DDD", "CQRS"]
 ---
 
 # Mes ressources clés
