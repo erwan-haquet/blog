@@ -39,11 +39,12 @@ html[data-theme="dark"]  {
         color: #9d9d9d;
 
         th {
-            background-color: #050505;
+            background-color: $primary-color;
         }
 
         tr:nth-child(even) {
-            background-color: #080808;
+            background-color: lighten($primary-color, 5%);
+
         }
     }
 

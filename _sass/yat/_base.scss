@@ -99,11 +99,12 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $primary-color;
     text-decoration: none;
 
     &:hover {
         text-decoration: underline;
+        color: darken($primary-color, 10%);
     }
 
     .social-media-list &:hover {
@@ -214,7 +215,7 @@ table {
     }
 
     th {
-        background-color: #2980b9;
+        background-color: $primary-color;
         color: #fff;
         border: 1px solid darken($grey-color-light, 4%);
         border-bottom-color: darken($grey-color-light, 12%);
