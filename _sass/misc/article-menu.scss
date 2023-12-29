@@ -17,7 +17,7 @@
         ul {
             border-left: 1px solid #e9ecef;
             $indent: $base-font-size / 4;
-            $active-bgcolor: #ecebec;
+            $active-bgcolor: $grey-color-light;
 
             @for $i from 2 to 7 {
                 .h-h#{$i} {

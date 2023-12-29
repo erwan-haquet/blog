@@ -285,6 +285,10 @@ html {
 
         a {
             text-decoration: none;
+
+            &:hover {
+                color: $primary-color;
+            }
         }
     }
 
@@ -367,10 +371,6 @@ html {
 
         &:not(:last-child) {
             margin-right: 8px;
-        }
-
-        &:hover {
-            color: #787878;
         }
     }
 
@@ -639,7 +639,7 @@ html {
             }
 
             > :nth-child(2) {
-                font-weight: lighter;
+                font-weight: 300;
                 margin-bottom: 0.8em;
                 transition: 0.2s all;
 
