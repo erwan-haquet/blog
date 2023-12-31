@@ -14,14 +14,11 @@ date:   2023-12-28 18:24:16 +0100
 
 ## Mes ressources clés 💎
 
-Dans une vie de développeur, il y a ces rencontres, ces articles, ces conférences, qui font évoluer, voir complétement
-repenser sa façon d'appréhender le code.
-
-J'ai listé ici **mes ressources clés**,
-Celles qui ont fait que je me suis attaché à la qualité du code,    
+J'ai listé ici **mes ressources clés**,   
+Celles qui m'ont fait m'attacher à la qualité du code,    
 Celles qui m'ont permis de passer des caps techniques,   
 Celles aussi qui m'ont fait comprendre qu'un développeur ne doit pas simplement savoir coder,   
-Bref, celles qui m'ont fait progresser et ouvert de nouveaux horizons.
+Bref, celles qui m'ont fait progresser et ouvert sur de nouveaux horizons.
 
 On y parle d'architecture logicielle, de DDD, de clean code, d'architecture hexagonale,
 de gestion de projet et de plein d'autres choses ...
