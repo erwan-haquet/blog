@@ -16,9 +16,7 @@
 title: Erwan Haquet - Blog
 email: erwan.haquet@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Write an awesome description for your new site here. You can edit this
-    line in _config.yml. It will appear in your document head meta (for
-    Google search results) and in your feed.xml site description.
+    Réflexions autour du développement logiciel au service de l'utilisateur.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://erwanhaquet.com" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "/assets/images/favicon.png"
@@ -134,7 +132,7 @@ header_pages:
 defaults:
     home:
         heading: "Erwan Haquet"
-        subheading: "Développeur Backend PHP / Symfony - Itinéraire d'une reconversion"
+        subheading: "Développeur back-end PHP / Symfony - Réflexions autour du développement logiciel au service de l'utilisateur"
         banner: ""
 
 # Banner default settings
